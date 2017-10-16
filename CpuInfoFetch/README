@@ -1,4 +1,5 @@
-This program reads /proc/cpuinfo content and displays it in a window. 
+This program reads /proc/cpuinfo content and displays it in a window. It took a lot of time to develop 
+this program, since my Qt knowledge is very limited.
 
 How to execute:
 
