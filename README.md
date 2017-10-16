@@ -7,4 +7,4 @@ It took a lot of time since my Qt knowledge is very limited.
 How to execute:
 
 The output of this program can be viewed by opening the project in QtCreator, building and executing it.
-Window directly shows the output and can be scrolled down by pressing down arrow key.
+Window directly shows the output and can be scrolled down by pressing mouse and dragging it upwards
