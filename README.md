@@ -8,3 +8,4 @@ How to execute:
 
 The output of this program can be viewed by opening the project in QtCreator, building and executing it.
 Window directly shows the output and can be scrolled down by pressing down arrow key.
+
